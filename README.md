@@ -1,5 +1,5 @@
 # QR-GENERATOR
-Great! Here's a full `README.md` for your QR Code Generator project. You can copy-paste it directly into your repo, or tweak anything you want. I’ve added sections to make it look professional and eye-catching.
+
 
 ---
 
