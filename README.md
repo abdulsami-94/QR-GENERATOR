@@ -1,6 +1,5 @@
 # QR-GENERATOR
 
-markdown
 # 🔲 QR Code Generator using Python
 
 A simple yet powerful script that generates QR codes using Python! Just give it some text or a URL, and it’ll spit out a crisp `.png` QR image ready to use.
