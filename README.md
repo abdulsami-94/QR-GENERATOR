@@ -1,9 +1,6 @@
 # QR-GENERATOR
 
-
----
-
-````markdown
+markdown
 # 🔲 QR Code Generator using Python
 
 A simple yet powerful script that generates QR codes using Python! Just give it some text or a URL, and it’ll spit out a crisp `.png` QR image ready to use.
@@ -27,7 +24,7 @@ A simple yet powerful script that generates QR codes using Python! Just give it 
 
 > Example QR generated from the script:
 \
-![QR Example](your-image-link-here) <!-- Upload your my_qrcode.png to GitHub and paste the raw link here -->
+![QR Example](https://github.com/Abdulsami-46/QR-GENERATOR/blob/main/my_qrcode.png)
 
 ---
 
@@ -67,19 +64,7 @@ pip install qrcode[pil]
 ├── QrGenerator.py     # Main script file
 ├── my_qrcode.png      # (Generated output)
 ├── README.md          # This file
-└── LICENSE            # MIT License (optional)
 ```
-
----
-
-## ✅ To-Do (Future Plans)
-
-* [ ] Add GUI using Tkinter
-* [ ] Accept command-line arguments for input
-* [ ] Allow batch generation from text files
-* [ ] QR from WiFi, Contact, or Calendar format
-
----
 
 ## 🤝 Contributing
 
@@ -92,32 +77,14 @@ Pull requests and suggestions are always welcome!
 5. Open a Pull Request
 
 ---
-
 ## 📃 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ## 🙌 Acknowledgements
 
-Made with 💻 by **\[Your Name]**
-Follow me on [GitHub](https://github.com/your-username)
-
+Made with 💻 by **\[Abdul Sami Shaikh]**
+Follow me on [GitHub] [(https://github.com/Abdulsami-46)]
 ---
 
-```
-
----
-
-### ✅ What You Should Do Now
-
-1. Replace:
-   - `your-image-link-here` → Upload your QR image to GitHub and paste the *raw image URL*.
-   - `your-username` → Your GitHub username.
-   - `Your Name` → Your actual name or handle (optional).
-2. Create a `LICENSE` file (MIT) – GitHub will suggest it when creating new files.
-3. Push the updated README to your repo.
-
-Want me to generate the raw link for your QR image or write a `LICENSE` file too? Just say the word.
-```
