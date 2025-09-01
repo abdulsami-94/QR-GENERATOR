@@ -23,7 +23,7 @@ A simple yet powerful script that generates QR codes using Python! Just give it 
 
 > Example QR generated from the script:
 \
-![QR Example](https://github.com/Abdulsami-46/QR-GENERATOR/blob/main/my_qrcode.png)
+![QR Example](https://github.com/abdulsami-46/QR-GENERATOR/blob/main/my_qrcode.png)
 
 ---
 
@@ -42,7 +42,7 @@ pip install qrcode[pil]
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/abdulsami-46/QR-GENERATOR.git
    cd qr-code-generator
    ```
 
